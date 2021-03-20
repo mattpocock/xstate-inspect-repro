@@ -1,0 +1,15 @@
+{
+  "name": "xstate-inspect-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Matt Pocock",
+  "license": "MIT",
+  "dependencies": {
+    "@xstate/inspect": "^0.4.1",
+    "@xstate/react": "^1.3.1",
+    "next": "^10.0.9",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "xstate": "^4.16.2"
+  }
+}
